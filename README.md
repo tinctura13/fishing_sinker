@@ -15,4 +15,4 @@ So, there is only two things you need to know find the dimensions of the sinker 
 - matplotlib >= 3.1.3
 
 ## Example
-Check out tihs [Notebook](/fishing_time.ipynb)
+Check out this [Notebook](/fishing_time.ipynb)
