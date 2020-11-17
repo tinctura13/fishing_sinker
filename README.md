@@ -12,6 +12,5 @@ Python >= 3.7
 Jupyter notebook
 
 Libs:
-
 numpy >= 1.18.1
 matplotlib >= 3.1.3
