@@ -13,3 +13,5 @@ So, there is only two things you need to know find the dimensions of the sinker 
 ## Libs
 - numpy >= 1.18.1
 - matplotlib >= 3.1.3
+
+Check out tihs [Notebook](/fishing_sinker/blob/main/fishing_time.ipynb)
