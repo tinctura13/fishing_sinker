@@ -1,4 +1,5 @@
 #Fishing sinker calculator
+
 Basic script that can help you to count the actual size of fishing sinkers depending on their weight.
 
 My father asked me if I can help him with producing of some fishing sinker but the only thing he knows was their weight, and the material. 
