@@ -8,9 +8,8 @@ So, there is only two things you need to know find the dimensions of the sinker 
 
 # Requirements
 
-Python >= 3.7
-Jupyter notebook
-
-Libs:
-numpy >= 1.18.1
-matplotlib >= 3.1.3
+- Python >= 3.7
+- Jupyter notebook
+- Libs:
+- numpy >= 1.18.1
+- matplotlib >= 3.1.3
