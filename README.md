@@ -6,6 +6,7 @@ Basic script that can help you to calculate the actual size of fishing sinkers d
 
 My Batya (Father in russian) asked me if I can help him with making some fishing sinker but the only thing he knew was their weight, and the material. 
 
+Then I thought that I can code a computer program that will dela with it!
 ![prgrmst](https://user-images.githubusercontent.com/51379705/99513670-b1db8700-29ac-11eb-82f0-983787b6a984.jpg)
 
 So, there are only two things you need to know find the dimensions of the sinker - the weight of the sinker and the density of the material it is made of. 
