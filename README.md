@@ -10,7 +10,7 @@ Then I thought that I can code a computer program that will deal with it!
 
 ![prgrmst](https://user-images.githubusercontent.com/51379705/99513670-b1db8700-29ac-11eb-82f0-983787b6a984.jpg)
 
-So, there are only two things you need to know find the dimensions of the sinker - the weight of the sinker and the density of the material it is made of. 
+So, there are only two things you need to find the dimensions of the sinker - the weight of the sinker and the density of the material it is made of. 
 
 # Requirements
 
