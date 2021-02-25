@@ -1,4 +1,4 @@
-# Fishing sinker calculator
+# Fishing weights calculator
 
 Basic script that can help you to calculate the actual size of fishing sinkers depending on their weight.
 
