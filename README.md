@@ -1,4 +1,10 @@
-# Fishing weights calculator
+# Fishing weights calculator v2.0
+
+I'm going to make it a Python package.
+
+Add CLI and something else. 
+
+Stay tuned!
 
 Basic script that can help you to calculate the actual size of fishing sinkers depending on their weight.
 
