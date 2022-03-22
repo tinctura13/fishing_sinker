@@ -10,7 +10,7 @@ Basic script that can help you to calculate the actual size of fishing sinkers d
 
 ![fshrman](https://user-images.githubusercontent.com/51379705/99513595-a0927a80-29ac-11eb-89cf-05411aa14cb1.jpg)
 
-My Batya (Father in russian) asked me if I can help him with making some fishing sinker but the only thing he knew was their weight, and the material. 
+My Bat'ko (Father in Ukrainian) asked me if I can help him with making some fishing sinker but the only thing he knew was their weight, and the material. 
 
 Then I thought that I can code a computer program that will deal with it!
 
