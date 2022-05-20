@@ -1,4 +1,4 @@
-# Fishing weights calculator v2.0
+# Fishing weights calculator v0.2.0
 
 I'm going to make it a Python package.
 
